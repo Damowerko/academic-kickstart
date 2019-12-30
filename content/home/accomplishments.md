@@ -3,7 +3,7 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 50  # Order that this section will appear.
+weight = 55  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
 subtitle = ""
@@ -19,33 +19,28 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "University of Pennsylvania"
+  organization_url = ""
+  title = "Stuart Eichert, Jr.  Memorial Prize"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2018-05-01"
   date_end = ""
-  description = ""
+  description = """Awarded to three juniors who, in the judgment of the School’s faculty, best demonstrate initiative,
+  intellectual attainment, and commitment to the professional practice of engineering."""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
+  organization = "PennApps Hackathon"
+  organization_url = "https://pennapps.com/"
+  title = "Most likely to be a founder by Rough Draft Ventures"
+  url = "https://devpost.com/software/sight-stone"
+  certificate_url = ""
   date_start = "2018-03-01"
   date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
-
+  description = """
+  Monetary prize awarded to one team out of thousands of hackathon contestants, who's team and project shows the
+  most promise to becoming a successful venture. We created a prototype of a refreshable braille display capable of 
+  displaying 2D graphics for a fraction of the cost of commercial solutions. I designed the control circuit, drivers
+  and API.
+  """
 +++
